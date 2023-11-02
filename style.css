@@ -1,0 +1,45 @@
+#quote-container
+{
+    width: 35rem;
+    border: 1px solid white;
+    height: 10rem;
+    text-align: center;
+    
+}
+
+/* .big-box
+{
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid black;
+  
+}  */
+body
+{
+    text-align: center;
+  color: aliceblue;
+  font-size: 2rem;
+  background-color:coral;
+  /* Center vertically and horizontally */
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  margin: -25px 0 0 -25px
+}
+
+
+button{
+    position: absolute;
+    left: 30%;
+    margin-top: 2rem;
+    background-color: coral;
+    border-style: solid;
+    border-color: aliceblue;
+    color: aliceblue;
+    width: 6rem;
+    height: 3rem;
+
+
+
+
+}
